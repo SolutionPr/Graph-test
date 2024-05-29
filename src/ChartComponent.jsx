@@ -103,6 +103,7 @@ const ChartComponent = () => {
 
   return (
     <>
+      <h1 style={{ color: "white" }}>Test Graph</h1>
       <div className="d-section">
         <div className="d-label">
           <div className="d">D</div>
